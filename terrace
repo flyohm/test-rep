@@ -1,0 +1,2365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Terrace 360 | Home Page</title>
+<!-- Stylesheets -->
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet">
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+
+<link rel="shortcut icon" href="images/logo 100x50.webp" type="image/x-icon">
+<link rel="icon" href="images/logo 100x50.webp" type="image/x-icon">
+
+
+
+
+<!-- Responsive -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+</head>
+
+<body>
+
+<div class="page-wrapper">
+    <!-- Preloader -->
+    <div class="preloader"></div>
+    
+    <!-- Main Header-->
+    <header class="main-header">
+        <!--Header Top-->
+        <div class="header-top">
+            <div class="auto-container">
+                <div class="inner-container clearfix">
+                    <div class="top-left">
+                        <ul class="contact-list clearfix">
+                            <li><i class="flaticon-maps-and-flags"></i> We are opening regular 
+                                <span class="tool-tip">Business Hrs
+                                    <span class="tooltip-hover">
+                                        <span class="inner">   
+                                            <strong>Opening Hours:</strong>
+                                            <span>Mon - Sat day: 9am to 5pm</span>
+                                            <span>Sun: Closed.</span>
+                                        </span>
+                                    </span>
+                                </span> at 
+                                <span class="tool-tip">Gowdanapalya
+                                    <span class="tooltip-hover">
+                                        <span class="inner">   
+                                            <span>No 39 Dr.Vishnuvardhan road, Gowdanapalya,  <br>above canfinhomes <br> Bangalore 560061</span>
+                                        </span>
+                                    </span>
+                                </span>
+                            </li>
+                            <li><a href="mailto:support@terrace.com"><i class="flaticon-send"></i>support@terrace.com</a></li>
+                        </ul>
+                    </div>
+                    <div class="top-right clearfix">
+                        <!--<div class="link-box"><a href="#"><i class="flaticon-download-content"></i>Download Brochure</a></div>-->
+                        <ul class="social-icon-one clearfix">
+                            <li><a href="https://www.facebook.com/login/?privacy_mutation_token
+                                =eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzAxMDYzMzIwLCJjYWxsc2l0ZV9pZCI6MjY5NTQ4NDUzMDcyMDk1MX0%3D"><i class="fa fa-facebook"></i></a></li>
+                            <!--<li><a href="#"><i class="fa fa-twitter"></i></a></li>-->
+                            <li><a href="https://www.instagram.com/accounts/login/?source=auth_switcher"><i class="fa fa-instagram"></i></a></li>
+                            <!--<li><a href="#"><i class="fa fa-linkedin"></i></a></li>-->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Header Top -->
+
+        <!-- Header Upper -->
+        <div class="header-upper">
+            <div class="auto-container">
+                <div class="outer-container clearfix">
+                    <div class="logo-box">
+                        <div class="logo"><a href="index.html"><img src="images/Logo 140x70.webp" alt="" title=""></a></div>
+                    </div>
+
+                    <!-- Call Btn -->
+                    <div class="call-btn"><a href="tel:+91-9844232351"> <i class="flaticon-phone-1"></i> +91-9844232351 </a></div>
+
+                    <div class="nav-outer clearfix">
+                        <!-- Main Menu -->
+                        <nav class="main-menu navbar-expand-md dropdown-toggle navbar-dark">
+                            <div class="navbar-header">
+                                <!-- Toggle Button -->      
+                                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContents" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                    <span class="icon  flaticon-menu-1"></span>
+                                </button>
+                            </div>
+                            
+                            
+                            <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
+                                <ul class="navigation clearfix">
+                                    <!--<li class="current"><a href="index.html"></a></li>-->
+                                    <li><a href="#about">About Us</a></li>
+                                    <!--<li class="dropdown"><a href="#"></a>-->
+                                        
+                                    
+                                    <li><a href="#services">Services</a></li>
+                                    <li class="dropdown"><a href="#why">Why Choose Us</a>
+                                        
+                                    </li>
+                                    <li class="dropdown"><a href="#how">How it Works</a>
+                                       <!-- <ul>
+                                            <li class="dropdown"><a href="#"></a>
+                                                <ul class="from-right">
+                                                    <li><a href="blog.html"></a></li>
+                                                    <li><a href="blog-large-image.html"></a></li>
+                                                    <li><a href="blog-single.html"></a></li>
+                                                    <li><a href="error-page.html"></a></li>
+                                                </ul>
+                                            </li>-->
+
+                                            <li class="dropdown"><a href="#contact">Contact Us</a></li>
+                                               <!-- <ul class="from-right">
+                                                    <li><a href="projects.html">Projects</a></li>
+                                                    <li><a href="project-single.html">Project Single</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="working-process.html">Working Process</a></li>
+                                            <li><a href="pricing-plans.html">Pricing Plans</a></li>
+                                            <li><a href="testimonials.html">Testimonials</a></li>
+                                            <li><a href="faq.html">FAQ's</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="contact.html">Contact</a></li>-->
+                                </ul>
+                            </div>
+
+                            <div class="toggle-menu">
+                                <div class="collapse navbar-collapse clearfix" id="navbarSupportedContents">
+                                    <ul class="navigation clearfix">
+                                        
+                                        <li><a href="#a">About Us</a></li> 
+                                        <li><a href="#s">Services</a></li>
+                                        <li class="dropdown"><a href="#whys">Why Choose Us</a></li>
+                                        <li class="dropdown"><a href="#works">How it Works</a></li>
+                                        <li class="dropdown"><a href="#contact">Contact Us</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+
+
+                            
+                        </nav>
+                        <!-- Main Menu End-->
+
+
+                        
+
+
+
+
+                        <!-- Main Menu End-->
+
+                        <!--Btn Outer-->
+                        <!--<div class="outer-box">
+                            <div class="cart-btn">
+                                <a href="shopping-cart.html"><span class="flaticon-shopping-cart"></span></a>
+                            </div>
+                            <div class="nav-toggler">
+                                <button class="nav-btn"><span class="icon  flaticon-menu-1"></span></button>
+                            </div>
+                        </div>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--End Header Upper-->
+
+        <!-- Sticky Header -->
+        <div class="sticky-header">
+            <div class="auto-container clearfix">
+                <!--Logo-->
+                <div class="logo pull-left">
+                    <a href="index.html" title=""><img src="images/Logo 140x70.webp" width="80%" alt="" title=""></a>
+                </div>
+                <!--Right Col-->
+                <div class="pull-right">
+                    <!-- Main Menu -->
+                    <nav class="main-menu">
+                        <div class="navbar-collapse show collapse clearfix">
+                            <ul class="navigation clearfix">
+                                <li class="current"><a href="#"></a></li>
+                                <li><a href="#about">About Us</a></li>
+                                <li class="dropdown"><a href="#services">Services</a>
+                                    <!--<ul>
+                                        <li><a href="services.html">Services</a></li>
+                                        <li><a href="design-and-planting.html">Design & Planting</a></li>
+                                        <li><a href="lawn-and-garden-care.html">Lawn & Garden Care</a></li>
+                                        <li><a href="spring-and-fall-cleanup.html">Spring & Fall Cleanup</a></li>
+                                        <li><a href="ice-removal.html">Snow & Ice Removal</a></li>
+                                        <li><a href="irrigation-and-drainage.html">Irrigation & Drainage</a></li>
+                                    </ul>-->
+                                </li> 
+                                <li class="dropdown"><a href="#why">Why Choose Us</a>
+                                    <!--<ul>
+                                        <li><a href="shop.html">Our Products</a></li>
+                                        <li><a href="product-single.html">Product Single</a></li>
+                                        <li><a href="shopping-cart.html">Shopping Cart</a></li>
+                                        <li><a href="checkout.html">Checkout</a></li>
+                                        <li><a href="login.html">My Account</a></li>
+                                    </ul>-->
+                                </li>
+                                <li class="dropdown"><a href="#how">How it Works</a>
+                                    <!--<ul>
+                                        <li class="dropdown"><a href="#">Blog</a>
+                                            <ul class="from-right">
+                                                <li><a href="blog.html">Blog Default</a></li>
+                                                <li><a href="blog-large-image.html">Blog Large Image</a></li>
+                                                <li><a href="blog-single.html">Blog Single</a></li>
+                                                <li><a href="error-page.html">404 Page</a></li>
+                                            </ul>
+                                        </li>-->
+
+                                        <li class="dropdown"><a href="#contact">Contact Us</a>
+                                            <!--<ul class="from-right">
+                                                <li><a href="projects.html">Projects</a></li>
+                                                <li><a href="project-single.html">Project Single</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="working-process.html">Working Process</a></li>
+                                        <li><a href="pricing-plans.html">Pricing Plans</a></li>
+                                        <li><a href="testimonials.html">Testimonials</a></li>
+                                        <li><a href="faq.html">FAQ's</a></li>
+                                    </ul>-->
+                                </li>
+                                <li><a href="#"></a></li>
+                            </ul>
+                        </div>
+                    </nav><!-- Main Menu End-->
+                </div>
+            </div>
+        </div>
+    </header>
+    <!--End Main Header -->
+
+    <!--Form Back Drop-->
+    <div class="form-back-drop"></div>
+    
+    <!-- Hidden Bar -->
+    <section class="hidden-bar">
+        <div class="inner-box">
+            <div class="cross-icon"><span class="flaticon-cancel"></span></div>
+
+            <div class="logo">
+                <a href="index.html"><img src="images/logo.png" alt="" /></a>
+            </div>
+            <!-- Brochures Widget -->
+            <div class="brochures-widget">
+                <h4>Our Brochures</h4>
+                <div class="brochure-box">
+                    <div class="inner">
+                        <i class="icon flaticon-file-1"></i>
+                        <h5><a href="#">Landscape Styles</a></h5>
+                        <span>1000+ designs</span>
+                    </div>
+                </div>
+                <div class="brochure-box">
+                    <div class="inner">
+                        <i class="icon flaticon-file-1"></i>
+                        <h5><a href="#">Company Profile</a></h5>
+                        <span>Since 1978</span>
+                    </div>
+                </div>
+            </div>
+            <!-- Subscribe Widget -->
+            <div class="subscribe-widget">
+                <h4>Newsletter Subscribe</h4>
+                <p>Get landscaping tips, tricks & latest updates</p>
+                <div class="subscribe-form">
+                    <form method="post" action="index.html">
+                        <div class="form-group">
+                            <input type="email" name="email" value="" placeholder="Email Address..." required="">
+                            <button type="submit"><i class="flaticon-right-arrow"></i></button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <!-- Offer Widget -->
+            <div class="offer-widget" style="background-image: url(images/resource/offer-bg.jpg);">
+                <div class="inner">
+                    <div class="offer"><span>50%</span>offer</div>
+                    <div class="text">Lifetime Maintenance</div>
+                    <div class="link-box"><a href="#" class="theme-btn btn-style-two">Get Estimate</a></div>
+                </div>
+            </div>
+            <!-- Copyright Text -->
+            <div class="copyright-text">Copyrights &copy; 2012-2018 <a href="index.html">The Groundwork.</a></div>
+        </div>
+    </section>
+    <!--End Hidden Bar -->
+
+    <!-- Baner Section -->
+    <section class="banner-section">
+        <div class="banner-carousel owl-carousel owl-theme">
+            <div class="slide-item" style="background-image: url(images/main-slider/b1.webp);">
+                <div class="auto-container clearfix">
+                    <div class="content-box pull-right overlay">
+                        <h2>Did You Know 25% Of Your</h2>
+                        <h4 style="color:#ff5900;"> House Is Not <br> Utilized By You !!!</h4>
+                        <div class="link-box clearfix">
+                            <a href="#popup-box" class="theme-btn btn-style-one "><i class="flaticon-budget"></i>Get A Free Design For Your Terrace</a>
+                            <a href="#" class="link"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="slide-item" style="background-image: url(images/main-slider/tt3.webp);">
+                <div class="auto-container clearfix">
+                    <div class="content-box pull-right  overlay">
+                        <h2>Terrace Is Most Under Utilized</h2>
+                        <h4 style="color:#ff5900;"> Space With MAX<br>Utilization Capacity</h4>
+                        <div class="link-box clearfix">
+                            <a href="#popup-box" class="theme-btn btn-style-one "><i class="flaticon-budget"></i>Get A Free Design For Your Terrace</a>
+                            <a href="#" class="link"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+
+            <div class="slide-item" style="background-image: url(images/main-slider/tt2.webp);">
+                <div class="auto-container clearfix">
+                    <div class="content-box pull-right overlay">
+                        <h2>Unlock terrace full potential </h2>
+                        <h4 style="color:#ff5900;">Transform into vibrant oasis.<br> </h4>
+                        <div class="link-box clearfix">
+                            <a href="#popup-box" class="theme-btn btn-style-one "><i class="flaticon-budget"></i>Get A Free Design For Your Terrace</a>
+                            <a href="#" class="link"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="slide-item" style="background-image: url(images/main-slider/b4.webp);">
+                <div class="auto-container clearfix">
+                    <div class="content-box pull-right overlay">
+                        <h2>Get Your Terrace UPGRADED As Per Your LIFESTLE </h2>
+                        <h4 style="color:#ff5900;">Make Over As Per <br> </h4>
+                        <div class="link-box clearfix">
+                            <a href="#popup-box" class="theme-btn btn-style-one "><i class="flaticon-budget"></i>Get A Free Design For Your Terrace</a>
+                            <a href="#" class="link"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--<div class="slide-item" style="background-image: url(images/main-slider/New\ Project\ \(3\).webp);">-->
+            <!--    <div class="auto-container clearfix">-->
+            <!--        <div class="content-box pull-right overlay">-->
+            <!--            <h2>Create a cozy outdoor retreat</h2>-->
+            <!--            <h4>Update to suit.<br> </h4>-->
+            <!--            <div class="link-box clearfix">-->
+            <!--                <a href="#popup-box" class="theme-btn btn-style-one "><i class="flaticon-budget"></i>Get A Free Design For Your Terrace</a>-->
+            <!--                <a href="#" class="link"></a>-->
+            <!--            </div>-->
+            <!--        </div>-->
+            <!--    </div>-->
+            <!--</div>-->
+
+            <!--<div class="slide-item" style="background-image: url(images/main-slider/3.jpg);">
+                <div class="auto-container">
+                    <div class="content-box">
+                        <h2>The gardenarea!</h2>
+                        <h4>Provides Lifetime <br> Care For All <br> Landscaping Designs.</h4>
+                        <div class="link-box clearfix">
+                            <a href="#" class="theme-btn btn-style-one"><i class="flaticon-budget"></i>Request an Estimate</a>
+                            <a href="#" class="link">Know About Us</a>
+                        </div>
+                    </div>
+                </div>
+            </div>-->
+        </div><a name="services"></a><a name="s"></a>
+    </section>
+    <!-- End Bnner Section -->
+
+  
+
+    <section class="service-section">
+        <div class="auto-container">
+          <div>
+            <div>
+              <div class="row clearfix">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                  <div class="sec-title">
+                    <h2 style="text-align: center;">Terrace<span> Makeover</span></h2>
+                    <!--<p>We excel in premium terrace makeovers, 
+                      enhancing outdoor spaces with unique expertise and creativity to elevate your living experience.</p>-->
+                  </div>
+                </div>
+              </div>
+            </div>
+    
+    
+            <div class="row servi">
+              <div class= "col-xs-3" style="text-align: center;">
+                <a href="#foun"><img class="service-img" src="images/resource/products/pergola.webp"  alt=""/></a>
+                <h5 class="serv"><a href="#foun" style="color:#ff5900;">Outdoor <br>Seating</a></h5>
+              </div>
+              <div class= "col-xs-3" style="text-align: center;">
+                <a href="#mura"><img class="service-img" src="images/gallery/playarea.webp"  alt=""/></a>
+                <h5 class="serv"><a href="#mura" style="color:#ff5900;">Play Area</a></h5>
+              </div>
+              <div class= "col-xs-3" style="text-align: center;">
+                <a href="#per"><img class="service-img" src="images/gallery/Gym (2).webp"  alt=""/></a>
+                <h5 class="serv"><a href="#per" style="color:#ff5900;">Yoga / Gym</a></h5>
+              </div>
+              <div class= "col-xs-3" style="text-align: center;">
+                <a href="#ter"><img class="service-img" src="images/gallery/Theatre.webp"  alt=""/></a>
+                <h5 class="serv"><a href="#ter" style="color:#ff5900;">Home <br>Theatre</a></h5>
+              </div>
+            </div>
+    
+    
+            <div class="row servi">
+                <div class= "col-xs-3" style="text-align: center;">
+                    <a href="#swi"><img class="service-img" src="images/gallery/Guest Rooms.webp" alt=""/></a>
+                    <h5 class="serv"><a href="#swi" style="color:#ff5900;">Guest <br>Room</a></h5>
+                  </div>
+              <div class= "col-xs-3" style="text-align: center;">
+                <a href="#jac"><img class="service-img" src="images/resource/pool.webp" alt=""/></a>
+                <h5 class="serv"><a href="#jac" style="color:#ff5900;">Water <br>Bodies</a></h5>
+              </div>
+              <div class= "col-xs-3 " style="text-align: center;">
+                <a href="#irr"><img class="service-img" src="images/gallery/Gazebo.webp" alt=""/></a>
+                <h5 class="serv"><a href="#irr" style="color:#ff5900;">Gazebo</a></h5>
+              </div>
+              <div class= "col-xs-3" style="text-align: center;">
+                <a href="#woo"><img class="service-img" src="images/resource/products/wood.webp" alt=""/></a>
+                <h5 class="serv"><a href="#woo" style="color:#ff5900;">Terrace <br />Garden</a></h5>
+              </div>
+            </div>
+          </div><a name="abouts"></a>
+        </div>
+      </section>
+
+
+
+<!-- Sidebar Page Container -->
+<div class="sidebar-page-container">
+    
+    <div class="auto-container">
+        <!--<div class="upper-box">
+            <div class="text">With over 40 years of experience landscaping homes and commercial properties in the Newyork area, we take prideinour ability to help our clients realize their dreams while adding to the value of their properties and the richness of their lives.</div>
+            <h4>Our fields of expertise include:</h4>
+        </div>-->
+        <div class="sec-title style-two">
+            <div class="row clearfix">
+                <div class="title-column col-lg-6 col-md-12 col-xs-12">
+                    <h2>Terrace <span> Makeover</span></h2>                
+                </div>
+                <div class="text-column col-lg-6 col-md-12 col-xs-12">
+                    <div class="text">We excel in premium terrace makeovers, enhancing outdoor spaces with unique expertise and creativity to elevate your living experience.
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row clearfix">
+            <!--Content Side-->
+            <div class="content-side col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                <div class="services">
+                   <div class="row clearfix">
+                       <!-- Service Block -->
+                        <div class="service-block col-xl-3 col-lg-3 col-md-4 col-xs-4 wow fadeIn">
+                            <div class="inner-box">
+                                <div class="image-box ">
+                                    <img src="images\resource\products\pergola.webp" alt="">
+                                    <div class="icon-box"><span class="icon flaticon-flower"></span></div>
+                                    <div class="overlay-box">   
+                                        <div class="content">
+                                            <div class="text">Cozy informal space to spend your evening with friends and family</div>
+                                            <div class="link"><a href="#"></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="caption-box">
+                                    <h3><a href="#fountain">Outdoor Seating</a></h3>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Service Block -->
+                        <div class="service-block col-xl-3 col-lg-3 col-md-4 col-xs-4 wow fadeIn" data-wow-delay="600ms">
+                            <div class="inner-box">
+                                <div class="image-box">
+                                    <img src="images\gallery/playarea.webp" alt="">
+                                    <div class="icon-box"><span class="icon flaticon-mining"></span></div>
+                                    <div class="overlay-box">   
+                                        <div class="content">
+                                            <div class="text">Safe and secure play area for your beloved little champs</div>
+                                            <div class="link"><a href="#"></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="caption-box">
+                                    <h3><a href="#mural">Play Area</a></h3>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Service Block -->
+                        <div class="service-block col-xl-3 col-lg-3 col-md-4 col-xs-4 wow fadeIn">
+                            <div class="inner-box">
+                                <div class="image-box">
+                                    <img src="images\gallery/Gym (2).webp" alt="">
+                                    <div class="icon-box"><span class="icon flaticon-autumn"></span></div>
+                                    <div class="overlay-box">   
+                                        <div class="content">
+                                            <div class="text">5 Star quality gym / yoga room right on top of your terrace</div>
+                                            <div class="link"><a href="#"></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="caption-box">
+                                    <h3><a href="#swim">Yoga/Gym</a></h3>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Service Block -->
+                        <div class="service-block col-xl-3 col-lg-3 col-md-4 col-xs-4 wow fadeIn" data-wow-delay="600ms">
+                            <div class="inner-box">
+                                <div class="image-box">
+                                    <img src="images\gallery/Theatre.webp" alt="">
+                                    <div class="icon-box"><span class="icon flaticon-snowflake-1"></span></div>
+                                    <div class="overlay-box">   
+                                        <div class="content">
+                                            <div class="text">Additional room / floor for your dream home theatre</div>
+                                            <div class="link"><a href="#"></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="caption-box">
+                                    <h3><a href="#terrace-garden">Home Theatre</a></h3>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Service Block -->
+                        <div class="service-block col-xl-3 col-lg-3 col-md-4 col-xs-4 wow fadeIn">
+                            <div class="inner-box">
+                                <div class="image-box">
+                                    <img src="images\gallery\Guest Rooms.webp" alt="">
+                                    <div class="icon-box"><span class="icon flaticon-brick"></span></div>
+                                    <div class="overlay-box">   
+                                        <div class="content">
+                                            <div class="text">Beautiful suite rooms for your guests</div>
+                                            <div class="link"><a href="#"></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="caption-box">
+                                    <h3><a href="#swim">Guest Room</a></h3>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Service Block -->
+                        <div class="service-block col-xl-3 col-lg-3 col-md-4 col-xs-4 wow fadeIn" data-wow-delay="600ms">
+                            <div class="inner-box">
+                                <div class="image-box">
+                                    <img src="images/resource/pool.webp" alt="">
+                                    <div class="icon-box"><span class="icon flaticon-valve"></span></div>
+                                    <div class="overlay-box">   
+                                        <div class="content">
+                                            <div class="text">Aesthetic accentuation with water bodies</div>
+                                            <div class="link"><a href="#"></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="caption-box">
+                                    <h3><a href="#Jacuzzi">Water Bodies</a></h3>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Service Block -->
+                        <div class="service-block col-xl-3 col-lg-3 col-md-4 col-xs-4 wow fadeIn" data-wow-delay="600ms">
+                            <div class="inner-box">
+                                <div class="image-box">
+                                    <img src="images/gallery/Gazebo.webp" alt="">
+                                    <div class="icon-box"><span class="icon flaticon-valve"></span></div>
+                                    <div class="overlay-box">   
+                                        <div class="content">
+                                            <div class="text">Cozy hangout spaces for your weekends</div>
+                                            <div class="link"><a href="#"></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="caption-box">
+                                    <h3><a href="#fountain">Gazebo</a></h3>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Service Block -->
+                        <div class="service-block col-xl-3 col-lg-3 col-md-4 col-xs-4 wow fadeIn" data-wow-delay="600ms">
+                            <div class="inner-box">
+                                <div class="image-box">
+                                    <img src="images\resource\products\wood.webp" alt="">
+                                    <div class="icon-box"><span class="icon flaticon-valve"></span></div>
+                                    <div class="overlay-box">   
+                                        <div class="content">
+                                            <div class="text">Roof top forest based on your theme</div>
+                                            <div class="link"><a href="#"></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="caption-box">
+                                    <h3><a href="#wooden-desk">Terrace Garden</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                   </div><a name="why"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- About Us -->
+<section class="about-uss"><a name="a"></a>
+    
+    <div class="auto-container">
+        <div class="row clearfix">
+            <!-- Content Column -->
+            <div class="content-column col-lg-6 col-md-12 col-sm-12">
+                <div class="inner-column">
+                    
+                    <h2>EXTRA SPACE OF ECSTASY AT <span>MINIMAL COST!!! </span></h2>
+                    <!--<h4>We ensure 100% customer satisfaction on all of our garden & landscaping services.</h4>-->
+                    <div class="textss">
+                        <p>Our seasoned team of architects and engineers has passionately applied their expertise to redefine the way we live, crafting innovative terrace solutions through 
+                        our exclusive makeover services. As a leading <span style="color:#ff5900;font-size:18px;">premium terrace makeover company</span>, we take pride in being industry trailblazers, dedicated to the art of transforming terraces with unmatched specialization and creativity. Welcome to a new era of elevated living experiences.</p>
+                        </div>
+                    <!--<div class="author-box">Mark Fletcher , <span>Ceo & Owner</span></div>-->
+                    <!--<div class="sign-img"><img src="images/resource/sign.png" alt=""></div>-->
+                </div>
+            </div>
+
+            <!-- Video Column -->
+            <div class="video-column col-lg-6 col-md-12 col-sm-12">
+                <div class="inner-column">
+                    <!--<figure class="image wow fadeIn"><img src="images/resource/New Project.webp" alt="">
+                        <a href="#" class="" data-fancybox="" data-caption="">--><!--<span class="icon flaticon-play-sign">--><!--</span></a>
+                    </figure>-->
+                    <figure class="image-2 wow fadeIn" data-wow-delay="600ms"><img src="images/resource/New Project (1).webp" alt=""></figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End About Us -->
+
+
+
+
+
+  <section class="social-ic">
+    <div class="social">
+        <div class="wrapper ">
+            <i class="fa fa-2x fa-facebook-square"></i>
+            <!--<i class="fa fa-2x fa-twitter-square"></i>-->
+            <i class="fa fa-2x fa-instagram"></i>
+            <!--<i class="fa fa-2x fa-linkedin"></i>-->
+        </div>
+    </div>
+    
+</section>
+  
+
+ 
+
+
+    <!-- Why Choose Us -->
+    <section class="why-choose-us" style="background-image: url(images/background/1.jpg);"><a name="why"></a>
+        
+        <div class="outer-container">
+            <div class="row no-gutters clearfix">
+                <!-- Feature Block -->
+                <div class="feature-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeIn">
+                    <div class="inner-box">
+                        <span class="float-text"></span>
+                        <div class="why-mob">                        
+                            <div class="icon-box"><span class="icon flaticon-time"></span></div>
+                            <div class="text" style="font-size: 20px;">Elegance</div>
+                        </div>
+
+                        <div class="text">Elevate your terrace with designs seamlessly blending contemporary style and everlasting beauty </div>
+                        <!--<div class="link"><a href="service-single.html">Read More</a></div>-->
+                    </div>
+                </div>
+
+                <!-- Feature Block -->
+                <div class="feature-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
+                    <div class="inner-box">
+                        <span class="float-text"></span>
+                        <div class="why-mob">
+                            <div class="icon-box"><span class="icon flaticon-health"></span></div>
+                            <div class="text" style="font-size: 20px;">Sustainability</div>
+                        </div>
+                        
+                        <div class="text">Choose Terrace 360 for eco-conscious landscaping, harmonizing sustainability with breathtaking aesthetics
+                        </div>
+                        <!--<div class="link"><a href="service-single.html">Read More</a></div>-->
+                    </div>
+                </div>
+
+                <!-- Feature Block -->
+                <div class="feature-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="800ms">
+                    <div class="inner-box">
+                        <span class="float-text"></span>
+                        <div class="why-mob">
+                            <div class="icon-box"><span class="icon flaticon-industry"></span></div>
+                            <div class="text" style="font-size: 20px;">Craftsmanship</div>
+                        </div>
+                        
+                        <div class="text">Our skilled artisans bring your vision to life with precision and unparalleled craftsmanship
+                        </div>
+                        <!--<div class="link"><a href="service-single.html">Read More</a></div>-->
+                    </div>
+                </div>
+
+                <!-- Feature Block -->
+                <div class="feature-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="1200ms">
+                    <div class="inner-box">
+                        <span class="float-text"></span>
+                        <div class="why-mob">
+                            <div class="icon-box"><span class="icon flaticon-ground"></span></div>
+                            <div class="text" style="font-size: 20px;">Management</div>
+                        </div>
+                        
+                        <div class="text"> We guarantee transparency and a stress-free transformation when Terrace 360 manages your project
+                        </div>
+                        <!--<div class="link"><a href="service-single.html">Read More</a></div>-->
+                    </div>
+                </div>
+            </div>
+        </div><a name="how"></a>
+    </section><a name="works"></a>
+    <!--End Why Choose Us -->
+
+    <!-- Projects Section -->                       
+    <!--<section class="projects-section">
+        <div class="auto-container">
+            <--MixitUp Galery-->
+            <!--<div class="sortable-masonry">
+                <div class="heading-box clearfix">
+                    <div class="row clearfix">
+                        <div class="col-lg-4 col-md-12 col-sm-12">
+                            <div class="sec-title"> 
+                                <h2>Latest <span>Projects</span></h2>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-8 col-md-12 col-sm-12">-->
+                            <!--Filter-->
+                            <!--<div class="filters clearfix">
+                                <ul class="filter-tabs filter-btns clearfix">
+                                    <li class="filter active" data-role="button" data-filter=".all">All Projects <span>23</span></li>
+                                    <li class="filter" data-role="button" data-filter=".lawn-care">Lawn Care <span>20</span></li>
+                                    <li class="filter" data-role="button" data-filter=".garden-care">Garden Care <span>18</span></li>
+                                    <li class="filter" data-role="button" data-filter=".planting">Planting <span>10</span></li>
+                                    <li class="filter" data-role="button" data-filter=".snow-removal">Snow Removal <span>04</span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="items-container row clearfix">-->
+                    <!-- Project Block -->
+                    <!--<div class="project-block masonry-item all garden-care col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/1.jpg" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="content-box">
+                                    <h4>Snow Removal</h4>
+                                    <a href="project-single.html" class="link">View Details <i class="flaticon-add"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>-->
+
+                    <!-- Project Block -->
+                    <!--<div class="project-block masonry-item all garden-care planting snow-removal col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/2.jpg" alt=""></figure>
+                             <div class="overlay-box">
+                                <div class="content-box">
+                                    <h4>Snow Removal</h4>
+                                    <a href="project-single.html" class="link">View Details <i class="flaticon-add"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>-->
+
+                    <!-- Project Block -->
+                    <!--<div class="project-block masonry-item all planting snow-removal col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/3.jpg" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="content-box">
+                                    <h4>Snow Removal</h4>
+                                    <a href="project-single.html" class="link">View Details <i class="flaticon-add"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>-->
+
+                    <!-- Project Block -->
+                    <!--<div class="project-block masonry-item all snow-removal lawn-care planting col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/4.jpg" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="content-box">
+                                    <h4>Snow Removal</h4>
+                                    <a href="project-single.html" class="link">View Details <i class="flaticon-add"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>-->
+
+                    <!-- Project Block -->
+                    <!--<div class="project-block masonry-item all snow-removal garden-care col-xl-3 col-lg-3 col-md-12 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/5.jpg" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="content-box">
+                                    <h4>Snow Removal</h4>
+                                    <a href="project-single.html" class="link">View Details <i class="flaticon-add"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>-->
+
+                    <!-- Project Block -->
+                    <!--<div class="project-block masonry-item all garden-care planting lawn-care col-xl-6 col-lg-6 col-md-12 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/6.jpg" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="content-box">
+                                    <h4>Snow Removal</h4>
+                                    <a href="project-single.html" class="link">View Details <i class="flaticon-add"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>-->
+
+                    <!-- Project Block -->
+                    <!--<div class="project-block masonry-item all lawn-care col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/7.jpg" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="content-box">
+                                    <h4>Snow Removal</h4>
+                                    <a href="project-single.html" class="link">View Details <i class="flaticon-add"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>-->
+
+                    <!-- Project Block -->
+                    <!--<div class="project-block masonry-item all garden-care planting col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/gallery/8.jpg" alt=""></figure>
+                            <div class="overlay-box">
+                                <div class="content-box">
+                                    <h4>Snow Removal</h4>
+                                    <a href="project-single.html" class="link">View Details <i class="flaticon-add"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>-->
+
+                <!--<div class="link-box">
+                    <a href="projects.html" class="theme-btn btn-style-one">Load More</a>
+                </div>-->
+            <!--</div>
+        </div>
+    </section>-->
+    <!-- End Projects Section -->
+
+    <!-- Why Section Twoo -->
+
+
+
+
+
+    <Section class="process-sectionss">
+        <div class="card">
+            
+            <div class="sec-title text-center">
+                <h2>Our <span>Process</span></h2>
+                <div class="text">We take it to the next level with our four key differences.</div>
+            </div>
+            <div class="steps">
+                <!--<div class="inner-box">
+                    <span class="iconss flaticon-engineer"></span>
+                    <div class="step">
+                        <div class="step__title">
+                         1. Client Visit
+                        </div>
+                        <div class="step__info">
+                          Our expert consultants work with you to identify your vision and determine the best way to transform your terrace.
+                        </div>
+                      </div>
+                </div>-->
+              
+              <div class="step">
+                <div class="inner-box">
+                    <span class="iconss flaticon-consulting"></span>
+                    <div class="step">
+                        <div class="step__title">
+                            1. Requirements
+                        </div>
+                        <div class="step__info">
+                            Meticulously gather your preferences, lifestyle needs, and aspirations, ensuring your terrace reflects your personality and desires.
+                        </div>
+                      </div>
+                </div>
+              </div>
+              <div class="step">
+                <div class="inner-box">
+                    <span class="iconss flaticon-analysis-process"></span>
+                    <div class="step">
+                        <div class="step__title">
+                            2. High-level plan
+                        </div>
+                        <div class="step__info">
+                            Translate your aspirations into a comprehensive design, creating a blueprint for an outstanding terrace transformation.
+                        </div>
+                      </div>
+                </div>
+              </div>
+            </div>
+        
+            <div class="steps">
+                <div class="step">
+                    <div class="inner-box">
+                        <span class="iconss flaticon-sketch"></span>
+                        <div class="step">
+                            <div class="step__title">
+                                3. 3D mockup
+                            </div>
+                            <div class="step__info">
+                                Visualize the magic before it happens with a stunning 3D mockup, empowering you to make informed decisions confidently.
+                            </div>
+                          </div>
+                    </div>
+                  </div>
+                  <div class="step">
+                    <div class="inner-box">
+                        <span class="iconss flaticon-dumper"></span>
+                        <div class="step">
+                            <div class="step__title">
+                                4. Execution
+                            </div>
+                            <div class="step__info">
+                                Skilled artisans bring the design to life, ensuring precision and excellence at every process step.
+                            </div>
+                          </div>
+                    </div>
+                  </div>
+                  <div class="step">
+                    <!--<div class="inner-box">
+                        
+                        
+                        <span class="iconss flaticon-wood-1"></span>
+                        
+                        <div class="step">
+                            <div class="step__title">
+                                6. Handover
+                            </div>
+                            <div class="step__info">
+                                Meticulously inspect every detail for a seamless handover, marking the beginning of your elevated outdoor experience.
+                            </div>
+                          </div>
+                    </div>-->
+                  </div>
+            </div>
+          </div>
+    </Section>
+
+
+
+    <div class="container prs">
+        <div class="col_fourth col-12">
+            <div class="sec-title text-center">
+                <h2>Our <span>Process</span></h2>
+                <div class="text">We take it to the next level with our four key differences.</div>
+            </div>
+          <!--<div class="at-work-process position-relative overflow-hidden text-center">
+            <div class="at-work-process-text">
+              <span class="at-work-process-number">01</span>
+              <span class="at-work-process-number-text">Client Visit</span>
+              <div class="at-separator-thick"></div>
+            </div>
+            <div class="at-work-process-details">
+                <span class="iconsss flaticon-engineer"></span><span>Our expert consultants work with you to identify your vision</span>
+            </div>
+          </div>
+        </div>
+        <div class="arrow">
+          <span>&#8595;</span>
+        </div>-->
+        <div class="col_fourth col-12 end">
+          <div class="at-work-process position-relative overflow-hidden">
+            <div class="at-work-process-text">
+              <span class="at-work-process-number">01</span>
+              <span class="at-work-process-number-text">Requirements</span>
+              <div class="at-separator-thick"></div>
+            </div>
+            <div class="at-work-process-details">
+                <span class="iconsss flaticon-consulting"></span><span>Meticulously gather your preferences, lifestyle needs.</span>
+            </div>
+          </div>
+        </div>
+        <div class="arrow">
+          <span>&#8595;</span>
+        </div>
+        <div class="col_fourth col-12 ">
+          <div class="at-work-process position-relative overflow-hidden">
+            <div class="at-work-process-text">
+              <span class="at-work-process-number">02</span>
+              <span class="at-work-process-number-text">High-level plan</span>
+              <div class="at-separator-thick"></div>
+            </div>
+            <div class="at-work-process-details">
+                <span class="iconsss flaticon-analysis-process"></span><span>Translate your aspirations into a comprehensive design.</span>
+            </div>
+          </div>
+        </div>
+        <div class="arrow">
+          <span>&#8595;</span>
+        </div>
+        
+        
+        <div class="col_fourth text-center col_half">
+          <div class="at-work-process position-relative overflow-hidden">
+            <div class="at-work-process-text">
+              <span class="at-work-process-number">03</span>
+              <span class="at-work-process-number-text">3D mockup</span>
+              <div class="at-separator-thick"></div>
+            </div>
+            <div class="at-work-process-details">
+                <span class="iconsss flaticon-sketch"></span><span>Visualize the magic before it happens with a stunning 3D mockup.</span>
+            </div>
+          </div>
+        </div>
+        <div class="arrow">
+          <span>&#8595;</span>
+        </div>
+    
+        <div class="col_fourth text-center col_half">
+          <div class="at-work-process position-relative overflow-hidden">
+            <div class="at-work-process-text">
+              <span class="at-work-process-number">04</span>
+              <span class="at-work-process-number-text">Execution</span>
+              <div class="at-separator-thick"></div>
+            </div>
+            <div class="at-work-process-details">
+                <span class="iconsss flaticon-dumper"></span><span>Skilled artisans bring the design to life, ensuring precision.</span>
+            </div>
+          </div>
+        </div>
+        <!--<div class="arrow">
+          <span>&#8595;</span>
+        </div>
+    
+        <div class="col_fourth text-center col_half">
+          <div class="at-work-process position-relative overflow-hidden">
+            <div class="at-work-process-text">
+              <span class="at-work-process-number">06</span>
+              <span class="at-work-process-number-text">Handover</span>
+              <div class="at-separator-thick"></div>
+            </div>
+            <div class="at-work-process-details">
+                <span class="iconsss flaticon-wood-1"></span><span>Meticulously inspect every detail for a seamless handover.</span>
+            </div>
+          </div>
+        </div>-->
+    
+        
+      </div>
+    
+
+
+
+
+
+
+
+
+
+    <!--<section class="why-section-two">
+        
+        <div class="auto-container">
+            <div class="sec-title text-center">
+                <h2>Our <span>Process</span></h2>
+                <div class="text">Which is why we take it to the next level with our four key differences.</div>
+            </div>
+
+            <div class="features-carousel owl-carousel owl-theme">-->
+                <!-- Feature Block Two -->
+                <!--<div class="feature-block-two">
+                    <div class="inner-box">-->
+                        <!--<span class="icon flaticon-dumper"></span>-->
+                        <!--<div class="thumbs"><img src="images/icons/negotiation.webp" alt=""><br><span class="num">1</span></div>
+                        <h4><a href="#">Client Visit</a></h4>
+                        <div class="text">Our expert consultants work with you to identify your vision and determine the best way to transform your terrace.
+                        </div>
+                    </div>
+                </div>-->
+
+                <!-- Feature Block Two -->
+                <!--<div class="feature-block-two">
+                    <div class="inner-box">-->
+                        <!--<span class="icon flaticon-engineer"></span>-->
+                        <!--<div class="thumbs"><img src="images/icons/collaboration.webp" alt=""><br><span class="num">2</span></div>
+                        <h4><a href="#">Requirement for Collection</a></h4>
+                        <div class="text">Meticulously gather your preferences, lifestyle needs, and aspirations, ensuring your terrace reflects your personality and desires.
+
+                        </div></br>
+                    </div>
+                </div>-->
+
+                <!-- Feature Block Two -->
+                <!--<div class="feature-block-two">
+                    <div class="inner-box">-->
+                        <!--<span class="icon flaticon-analysis-process"></span>-->
+                        <!--<div class="thumbs"><img src="images/icons/content-plan.webp" alt=""><br><span class="num">3</span></div>
+                        <h4><a href="#">High-level plan</a></h4>
+                        <div class="text">Translate your aspirations into a comprehensive design, creating a blueprint for an outstanding terrace transformation.</div>
+                    </div>
+                </div>-->
+
+                <!-- Feature Block Two -->
+                <!--<div class="feature-block-two">
+                    <div class="inner-box">-->
+                        <!--<span class="icon flaticon-engineer-1"></span>-->
+                        <!--<div class="thumbs"><img src="images/icons/mockup.webp" alt=""><br><span class="num">4</span></div>
+                        <h4><a href="#">3D mockup</a></h4>
+                        <div class="text">Visualize the magic before it happens with a stunning 3D mockup, empowering you to make informed decisions confidently.</div>
+                    </div>
+                </div>-->
+
+                <!-- Feature Block Two -->
+                <!--<div class="feature-block-two">
+                    <div class="inner-box">-->
+                        <!--<span class="icon flaticon-dumper"></span>-->
+                        <!--<div class="thumbs"><img src="images/icons/planning.webp" alt=""><br><span class="num">5</span></div>
+                        <h4><a href="#">Execution</a></h4>
+                        <div class="text">Skilled artisans bring the design to life, ensuring precision and excellence at every process step.<br>            </div>
+                    </div>
+                </div>-->
+
+                <!-- Feature Block Two -->
+                <!--<div class="feature-block-two">
+                    <div class="inner-box">-->
+                        <!--<span class="icon flaticon-engineer"></span>-->
+                        <!--<div class="thumbs"><img src="images/icons/handshake.webp" alt=""><br><span class="num">6</span></div>
+                        <h4><a href="#">Handover</a></h4>
+                        <div class="text">Meticulously inspect every detail for a seamless handover, marking the beginning of your elevated outdoor experience.</div>
+                    </div>
+                </div>-->
+
+                <!-- Feature Block Two -->
+                <!--<div class="feature-block-two">
+                    <div class="inner-box">
+                        <span class="icon flaticon-analysis-process"></span>
+                        <h4><a href="service.html">Timely Response</a></h4>
+                        <div class="text">Know how to pursue pleasure rationally encounter.</div>
+                    </div>
+                </div>-->
+
+                <!-- Feature Block Two -->
+                <!--<div class="feature-block-two">
+                    <div class="inner-box">
+                        <span class="icon flaticon-engineer-1"></span>
+                        <h4><a href="service.html">Safe & Reliable</a></h4>
+                        <div class="text">Right to find fault with a man some advantages.</div>
+                    </div>
+                </div>-->
+            </div>
+        </div>
+    </section>
+
+
+    <div class="sidebar-page-containers">
+    
+        <div class="auto-container">
+            <!--<div class="upper-box">
+                <div class="text">With over 40 years of experience landscaping homes and commercial properties in the Newyork area, we take prideinour ability to help our clients realize their dreams while adding to the value of their properties and the richness of their lives.</div>
+                <h4>Our fields of expertise include:</h4>
+            </div>-->
+            <div class="sec-title style-two">
+                <div class="row clearfix">
+                    <div class="title-column col-lg-6 col-md-12 col-xs-12">
+                        <h2>Terrace <span> Makeover</span></h2>                
+                    </div>
+                    <div class="text-column col-lg-6 col-md-12 col-xs-12">
+                        <div class="text">We excel in premium terrace makeovers, enhancing outdoor spaces with unique expertise and creativity to elevate your living experience.
+                        </div>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="row clearfix">
+                <!--Content Side-->
+                <div class="content-side col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                    <div class="services">
+                       <div class="row clearfix">
+                           <!-- Service Block -->
+                            <div class="service-block col-xl-3 col-lg-3 col-md-4 col-xs-4 wow fadeIn">
+                                <div class="inner-box">
+                                    <div class="image-box ">
+                                        <img src="images\resource\products\pergola.webp" alt="">
+                                        <div class="icon-box"><span class="icon flaticon-flower"></span></div>
+                                        <div class="overlay-box">   
+                                            <div class="content">
+                                                <div class="text">Cozy informal space to spend your evening with friends and family</div>
+                                                <div class="link"><a href="#"></a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="caption-box">
+                                        <h3><a href="#fountain">Outdoor Seating</a></h3>
+                                    </div>
+                                </div>
+                            </div><a name="foun"></a>
+    
+                            <!-- Service Block -->
+                            <div class="service-block col-xl-3 col-lg-3 col-md-4 col-xs-4 wow fadeIn" data-wow-delay="600ms">
+                                <div class="inner-box">
+                                    <div class="image-box">
+                                        <img src="images/gallery/playarea.webp" alt="">
+                                        <div class="icon-box"><span class="icon flaticon-mining"></span></div>
+                                        <div class="overlay-box">   
+                                            <div class="content">
+                                                <div class="text">Safe and secure play area for your beloved little champs</div>
+                                                <div class="link"><a href="#"></a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="caption-box">
+                                        <h3><a href="#mural">Play Area</a></h3>
+                                    </div>
+                                </div>
+                            </div><a name="mura"></a>
+    
+                            <!-- Service Block -->
+                            <div class="service-block col-xl-3 col-lg-3 col-md-4 col-xs-4 wow fadeIn">
+                                <div class="inner-box">
+                                    <div class="image-box">
+                                        <img src="images/gallery/Gym (2).webp" alt="">
+                                        <div class="icon-box"><span class="icon flaticon-autumn"></span></div>
+                                        <div class="overlay-box">   
+                                            <div class="content">
+                                                <div class="text">5 Star quality gym / yoga room right on top of your terrace</div>
+                                                <div class="link"><a href="#"></a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="caption-box">
+                                        <h3><a href="#swim">Yoga / Gym</a></h3>
+                                    </div>
+                                </div>
+                            </div><a name="per"></a><a name="ter"></a>
+    
+                            <!-- Service Block -->
+                            <div class="service-block col-xl-3 col-lg-3 col-md-4 col-xs-4 wow fadeIn" data-wow-delay="600ms">
+                                <div class="inner-box">
+                                    <div class="image-box">
+                                        <img src="images\gallery/Theatre.webp" alt="">
+                                        <div class="icon-box"><span class="icon flaticon-snowflake-1"></span></div>
+                                        <div class="overlay-box">   
+                                            <div class="content">
+                                                <div class="text">Additional room / floor for your dream home theatre</div>
+                                                <div class="link"><a href="#"></a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="caption-box">
+                                        <h3><a href="#terrace-garden">Home Theatre</a></h3>
+                                    </div>
+                                </div>
+                            </div><a name="ter"></a>
+    
+                            <!-- Service Block -->
+                            <div class="service-block col-xl-3 col-lg-3 col-md-4 col-xs-4 wow fadeIn">
+                                <div class="inner-box">
+                                    <div class="image-box">
+                                        <img src="images\gallery/Guest Rooms.webp" alt="">
+                                        <div class="icon-box"><span class="icon flaticon-brick"></span></div>
+                                        <div class="overlay-box">   
+                                            <div class="content">
+                                                <div class="text">Beautiful suite rooms for your guests</div>
+                                                <div class="link"><a href="#"></a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="caption-box">
+                                        <h3><a href="#swim">Guest Room</a></h3>
+                                    </div>
+                                </div>
+                            </div><a name="swi"></a>
+    
+                            <!-- Service Block -->
+                            <div class="service-block col-xl-3 col-lg-3 col-md-4 col-xs-4 wow fadeIn" data-wow-delay="600ms">
+                                <div class="inner-box">
+                                    <div class="image-box">
+                                        <img src="images\resource\pool.webp" alt="">
+                                        <div class="icon-box"><span class="icon flaticon-valve"></span></div>
+                                        <div class="overlay-box">   
+                                            <div class="content">
+                                                <div class="text">Aesthetic accentuation with water bodies</div>
+                                                <div class="link"><a href="#"></a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="caption-box">
+                                        <h3><a href="#Jacuzzi">Water Bodies</a></h3>
+                                    </div>
+                                </div>
+                            </div><a name="jac"></a>
+    
+                            <!-- Service Block -->
+                            <div class="service-block col-xl-3 col-lg-3 col-md-4 col-xs-4 wow fadeIn" data-wow-delay="600ms">
+                                <div class="inner-box">
+                                    <div class="image-box">
+                                        <img src="images\gallery/Gazebo.webp" alt="">
+                                        <div class="icon-box"><span class="icon flaticon-valve"></span></div>
+                                        <div class="overlay-box">   
+                                            <div class="content">
+                                                <div class="text">Cozy hangout spaces for your weekends</div>
+                                                <div class="link"><a href="#"></a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="caption-box">
+                                        <h3><a href="#fountain">Gazebo</a></h3>
+                                    </div>
+                                </div>
+                            </div><a name="irr"></a>
+    
+                            <!-- Service Block -->
+                            <div class="service-block col-xl-3 col-lg-3 col-md-4 col-xs-4 wow fadeIn" data-wow-delay="600ms">
+                                <div class="inner-box">
+                                    <div class="image-box">
+                                        <img src="images\resource\products\wood.webp" alt="">
+                                        <div class="icon-box"><span class="icon flaticon-valve"></span></div>
+                                        <div class="overlay-box">   
+                                            <div class="content">
+                                                <div class="text">Roof top forest based on your theme</div>
+                                                <div class="link"><a href="#"></a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="caption-box">
+                                        <h3><a href="#wooden-desk">Terrace Garden</a></h3>
+                                    </div>
+                                </div>
+                            </div><a name="woo"></a>
+                       </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <!--End Why Section Two -->
+
+    <!-- Process Section -->
+    <!--<section class="process-section" style="background-image: url(images/rustic-deck-with-patio-furniture-vegetation_23-2150698468.webp);">
+        <div class="auto-container">
+            <div class="sec-title light text-center">
+                <h2>Our Work <span>Process</span></h2>
+                <div class="text">We design with you by asking questions and listening closely to your answers.</div>
+            </div>
+
+            <div class="row clearfix">-->
+                <!-- Process Block -->
+                <!--<div class="process-block col-lg-4 col-md-6 col-sm-12 wow fadeIn">
+                    <div class="inner-box">
+                        <span class="icon flaticon-consulting"></span>
+                        <h4><a href="#">Initial Consultation</a></h4>
+                        <span class="count">1</span>
+                    </div>
+                </div>-->
+
+                <!-- Process Block -->
+                <!--<div class="process-block col-lg-4 col-md-6 col-sm-12 wow fadeIn">
+                    <div class="inner-box">
+                        <span class="icon flaticon-consulting"></span>
+                        <h4><a href="#">Initial Consultation</a></h4>
+                        <span class="count">2</span>
+                    </div>
+                </div>-->
+
+                <!-- Process Block -->
+                <!--<div class="process-block col-lg-4 col-md-6 col-sm-12 wow fadeIn">
+                    <div class="inner-box">
+                        <span class="icon flaticon-consulting"></span>
+                        <h4><a href="#">Initial Consultation</a></h4>
+                        <span class="count">3</span>
+                    </div>
+                </div>-->
+
+                
+
+                <!-- Process Block -->
+                <!--<div class="process-block col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
+                    <div class="inner-box">
+                        <span class="icon flaticon-sketch"></span>
+                        <h4><a href="#">Design Installation</a></h4>
+                        <span class="count">4</span>
+                    </div>
+                </div>-->
+
+                <!-- Process Block -->
+                <!--<div class="process-block col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="800ms">
+                    <div class="inner-box">
+                        <span class="icon flaticon-mining"></span>
+                        <h4><a href="#">Construction Details</a></h4>
+                        <span class="count">5</span>
+                    </div>
+                </div>-->
+
+                <!-- Process Block -->
+                <!--<div class="process-block col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="1200ms">
+                    <div class="inner-box">
+                        <span class="iconss flaticon-wood-1"></span>
+                        <span class="iconss flaticon-sketch"></span>
+                        <h4><a href="#">Proper Maintenance</a></h4>
+                        <span class="count">6</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>-->
+    <!--End Process Section -->
+
+    <!-- Testimonial Section -->
+    <section class="testimonials-section">
+        <div class="auto-container">
+            <div class="sec-title style-two">
+                <div class="row clearfix">
+                    <div class="title-column col-lg-4 col-md-12 col-sm-12">
+                        <h2>Client <span>Testimonials</span></h2>                
+                    </div> 
+                    <div class="text-column col-lg-8 col-md-12 col-sm-12">
+                        <div class="text">Read what our clients say about our landscaping services and know how we help our customers to get what they expect.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="testimonial-carousel owl-carousel owl-theme">
+                <!-- Testimonial BLock -->
+                <div class="testimonial-block">
+                    <div class="inner-box">
+                        <div class="thumb"><img src="images/resource/services (4).webp" alt=""></div>
+                        <h4>Great ! Garden Designs and Maintenace</h4>
+                        <div class="text">Gardenarea helped me transform my dated, patchwork front yard into an inviting Southern Garden! gardenarea architect Michael Gregory worked.</div>
+                        <div class="info-box">
+                            <h5 class="name">Emileny Fernando</h5>
+                            <span class="designation">California</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Testimonial BLock -->
+                <div class="testimonial-block">
+                    <div class="inner-box">
+                        <div class="thumb"><img src="images/resource/services (4).webp" alt=""></div>
+                        <h4>Great ! Garden Designs and Maintenace</h4>
+                        <div class="text">Gardenarea helped me transform my dated, patchwork front yard into an inviting Southern Garden! gardenarea architect Michael Gregory worked.</div>
+                        <div class="info-box">
+                            <h5 class="name">Emileny Fernando</h5>
+                            <span class="designation">California</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><a name="whys"></a>
+    </section>
+
+
+    <!-- Why Choose Us -->
+    <section class="why-choose-uss" style="background-image: url(images/background/1.jpg);"><a name="why"></a><a name="why"></a>
+        
+        <div class="outer-container">
+            <div class="row no-gutters clearfix">
+                <!-- Feature Block -->
+                <div class="feature-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeIn">
+                    <div class="inner-box">
+                        <span class="float-text"></span>
+                        <div class="why-mob">                        
+                            <div class="icon-box"><span class="icon flaticon-time"></span></div>
+                            <div class="text" style="font-size: 20px;">Elegance</div>
+                        </div>
+
+                        <div class="text">Elevate your terrace with designs seamlessly blending contemporary style and everlasting beauty </div>
+                        <!--<div class="link"><a href="service-single.html">Read More</a></div>-->
+                    </div>
+                </div>
+
+                <!-- Feature Block -->
+                <div class="feature-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="400ms">
+                    <div class="inner-box">
+                        <span class="float-text"></span>
+                        <div class="why-mob">
+                            <div class="icon-box"><span class="icon flaticon-health"></span></div>
+                            <div class="text" style="font-size: 20px;">Sustainability</div>
+                        </div>
+                        
+                        <div class="text">Choose Terrace 360 for eco-conscious landscaping, harmonizing sustainability with breathtaking aesthetics
+                        </div>
+                        <!--<div class="link"><a href="service-single.html">Read More</a></div>-->
+                    </div>
+                </div>
+
+                <!-- Feature Block -->
+                <div class="feature-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="800ms">
+                    <div class="inner-box">
+                        <span class="float-text"></span>
+                        <div class="why-mob">
+                            <div class="icon-box"><span class="icon flaticon-industry"></span></div>
+                            <div class="text" style="font-size: 20px;">Craftsmanship</div>
+                        </div>
+                        
+                        <div class="text">Our skilled artisans bring your vision to life with precision and unparalleled craftsmanship
+                        </div>
+                        <!--<div class="link"><a href="service-single.html">Read More</a></div>-->
+                    </div>
+                </div>
+
+                <!-- Feature Block -->
+                <div class="feature-block col-xl-3 col-lg-6 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="1200ms">
+                    <div class="inner-box">
+                        <span class="float-text"></span>
+                        <div class="why-mob">
+                            <div class="icon-box"><span class="icon flaticon-ground"></span></div>
+                            <div class="text" style="font-size: 20px;">Management</div>
+                        </div>
+                        
+                        <div class="text"> We guarantee transparency and a stress-free transformation when Terrace 360 manages your project
+                        </div>
+                        <!--<div class="link"><a href="service-single.html">Read More</a></div>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End Why Choose Us -->
+
+
+
+    <!--End Testimonial Section -->
+
+    <!-- News Section -->
+    <!--<section class="news-section">
+        <div class="auto-container">
+            <div class="sec-title style-three">
+                <div class="row clearfix">
+                    <div class="title-column col-lg-4 col-md-12 col-sm-12">
+                        <h2>Latest From <span> Blog</span></h2>                
+                    </div>  
+                    <div class="text-column col-lg-8 col-md-12 col-sm-12">
+                        <div class="text">Our experts sharing their experience to our customers know about<br> gardening tips, tricks and more. </div>
+                    </div>
+                </div>
+            </div>-->
+
+            <!-- News Carousel -->
+            <!--<div class="news-carousel owl-carousel owl-theme">-->
+                <!-- News Block -->
+                <!--<div class="news-block">
+                    <div class="inner-box">
+                        <ul class="info">
+                            <li class="day">14 <span>May</span></li>
+                            <li class="comments">2  <span>Comnts</span></li>
+                        </ul>
+                        <div class="content">
+                            <div class="author">by <a href="blog-single.html">Jeorge Bailey</a></div>
+                            <h3><a href="blog-single.html">Snow Blower or Plow: what’s Better</a></h3>
+                            <div class="text">Denouncing pleasure and praising pain born and will give you completed expound teachings...</div>
+                            <div class="link-box"><a href="blog-single.html">Read More</a></div>
+                        </div>
+                    </div>
+                </div>-->
+
+                 <!-- News Block -->
+                <!--<div class="news-block">
+                    <div class="inner-box">
+                        <ul class="info">
+                            <li class="day">14 <span>May</span></li>
+                            <li class="comments">2  <span>Comnts</span></li>
+                        </ul>
+                        <div class="content">
+                            <div class="author">by <a href="blog-single.html">Jeorge Bailey</a></div>
+                            <h3><a href="blog-single.html">Snow Blower or Plow: what’s Better</a></h3>
+                            <div class="text">Denouncing pleasure and praising pain born and will give you completed expound teachings...</div>
+                            <div class="link-box"><a href="blog-single.html">Read More</a></div>
+                        </div>
+                    </div>
+                </div>-->
+
+                 <!-- News Block -->
+                <!--<div class="news-block">
+                    <div class="inner-box">
+                        <ul class="info">
+                            <li class="day">14 <span>May</span></li>
+                            <li class="comments">2  <span>Comnts</span></li>
+                        </ul>
+                        <div class="content">
+                            <div class="author">by <a href="blog-single.html">Jeorge Bailey</a></div>
+                            <h3><a href="blog-single.html">Snow Blower or Plow: what’s Better</a></h3>
+                            <div class="text">Denouncing pleasure and praising pain born and will give you completed expound teachings...</div>
+                            <div class="link-box"><a href="blog-single.html">Read More</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>-->
+    <!--End News Section -->
+
+     <!-- FAQ Section --><a name="contact"></a>
+     <section class="faq-section">
+        
+        <div class="auto-container">
+            <div class="sec-title light text-center">
+                <h2><span>Our FAQ's</span></h2>
+                <div class="texts">We design with you by asking questions and listening closely to your answers.</div>
+            </div>
+            <div class="row clearfix">
+
+                
+
+                <!-- Accordion Column -->
+                <div class="accordion-column col-lg-6 col-md-12 col-sm-12">
+                    <div class="inner-column">
+                        <!--Accordian Box-->
+                        <ul class="accordion-box">
+                            
+    
+                            <!--Block-->
+                            <li class="accordion block active-block">
+                                <div class="acc-btn active"><span class="icon flaticon-circular-down-arrow-button"></span>How do you charge for your projects?</div>
+                                <div class="acc-content current">
+                                    <div class="content">
+                                        <div class="text">As each project and therefore everyone’s needs are different, our fees are based on the needs of your project; we provide a flexible pricing
+                                            structure that gives you a fixed fee for every stage of the project.</div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <!--Block-->
+                            <li class="accordion block">
+                                <div class="acc-btn"><span class="icon flaticon-circular-down-arrow-button"></span>I have a very tight budget but need extra space - can you help? </div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">We are always realistic about what is possible within your budget; this is discussed very early on in the process and we offer
+                                            innovative solutions to see how you can get the space you need at a price that you can afford.</div>
+                                    </div>
+                                </div>
+                            </li>
+                            
+                            <!--Block-->
+                            <li class="accordion block">
+                                <div class="acc-btn"><span class="icon flaticon-circular-down-arrow-button"></span> I’m not quite sure what design would work best for my home, can you help?</div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">Of course, the first part to any project is to understand what you want and explore this with sketches and ideas to ensure that what you need is explored at the design stage and reflective of your budget.</div>
+                                    </div>
+                                </div>
+                            </li>
+                            
+                            <!--Block-->
+                            <li class="accordion block">
+                                <div class="acc-btn"><span class="icon flaticon-circular-down-arrow-button"></span>What did you do to make it a success?</div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">Our service is more than getting plans drawn, we want to understand the way you and your family live so as to design your home so that it
+                                            works for you. A key part of our offering is the design exploration stage, and we will present a number of ideas as to how various areas may
+                                            work. Working with us as your architect through the course of your project is likely to save you money in the long run and leave you with a
+                                            beautiful space that you can be proud of.</div>
+                                    </div>
+                                </div>
+                            </li>
+                            
+                            <!--Block-->
+                            <li class="accordion block">
+                                <div class="acc-btn"><span class="icon flaticon-circular-down-arrow-button"></span>What can I expect at my first consultation</div>
+                                <div class="acc-content">
+                                    <div class="content">
+                                        <div class="text">The first consultation is about exploring and understanding your requirements, we will spend about an hour with you to understand what you
+                                            are looking for relative to any contextual constraints and this will allow us to send you a fee proposal to suit your project.</div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="accordion-column col-lg-6 col-md-12 col-sm-12">
+                    <div class="contact-form">
+                        <form method="post" action="index.html">
+                            <div class="row clearfix">
+                                <div class="col-lg-12 col-md-12 col-sm-12">
+                                    <div class="form-group">
+                                        <input type="text" name="username" placeholder="Name" required="">
+                                    </div>
+                                    
+                                    <div class="form-group">
+                                        <input type="email" name="email" placeholder="Email" required="">
+                                    </div>
+    
+                                    <div class="form-group">
+                                        <input type="text" name="phone" placeholder="Phone No" required="">
+                                    </div>
+                                    <div class="form-group">
+                                        <textarea name="message" placeholder="Message"></textarea>
+                                    </div>
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 form-group">
+                                    <button type="submit" name="submit-form" class="theme-btn btn-style-one">Submit Now</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                
+            </div><a name="about"></a>
+        </div>
+    </section>
+    <!-- FAQ Section -->
+
+    <!-- Contact Section -->
+    <!--<section class="contact-section">
+        <div class="auto-container">
+            <div class="row clearfix">-->
+                <!-- Image Column -->
+                <!--<div class="image-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
+                    <div class="inner-column">
+                        <div class="image-box wow fadeIn">
+                            <div class="image"><img src="images/rustic-deck-with-patio-furniture-vegetation_23-2150698468.webp" alt=""></div> 
+                            <div class="info-box">
+                                <div class="text"><b>For Any Emergency Service</b></div>
+                                <h4><b>+91-7894561230</b></h4></h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>-->
+
+                <!-- Form Column -->
+                <!--<div class="form-column col-xl-6 col-lg-12 col-md-12 col-sm-12">
+                    <div class="inner-column">
+                        <div class="text">We can help with your emergency situation, Would you like to get your estimate?.</div>
+                        <div class="contact-form">
+                            <form method="post" action="index.html">
+                                <div class="row clearfix">
+                                    <div class="col-lg-6 col-md-12 col-sm-12">
+                                        <div class="form-group">
+                                            <input type="text" name="username" placeholder="Name" required="">
+                                        </div>
+                                        
+                                        <div class="form-group">
+                                            <input type="email" name="email" placeholder="Email" required="">
+                                        </div>
+
+                                        <div class="form-group">
+                                            <input type="text" name="phone" placeholder="Phone No" required="">
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="col-lg-6 col-md-12 col-sm-12 form-group">
+                                        <textarea name="message" placeholder="Message"></textarea>
+                                    </div>
+
+                                    <div class="col-lg-12 col-md-12 col-sm-12 form-group">
+                                        <button type="submit" name="submit-form" class="theme-btn btn-style-one">Submit Now</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>-->
+    <!--End Contact Section -->
+
+
+
+
+    <!-- About Us -->
+ <section class="about-us">
+    
+    <div class="auto-container">
+        <div class="row clearfix">
+            <!-- Content Column -->
+            <div class="content-column col-lg-6 col-md-12 col-sm-12">
+                <div class="inner-column">
+                    
+                    <h2>EXTRA SPACE OF ECSTASY AT <span>MINIMAL COST!!! </span></h2>
+                    <h4>We ensure 100% customer satisfaction on all of our garden & landscaping services.</h4>
+                    <div class="textss">
+                        <p>Our seasoned team of architects and engineers has passionately applied their expertise to redefine the way we live, crafting innovative terrace solutions through 
+                        our exclusive makeover services. As a leading <span style="color:#ff5900;font-size:18px;">premium terrace makeover company</span>, we take pride in being industry trailblazers, dedicated to the art of transforming terraces with unmatched specialization and creativity. Welcome to a new era of elevated living experiences.</p>
+                        </div>
+                    <!--<div class="author-box">Mark Fletcher , <span>Ceo & Owner</span></div>-->
+                    <!--<div class="sign-img"><img src="images/resource/sign.png" alt=""></div>-->
+                </div>
+            </div>
+
+            <!-- Video Column -->
+            <div class="video-column col-lg-6 col-md-12 col-sm-12">
+                <div class="inner-column">
+                    <figure class="image wow fadeIn"><img src="images/resource/New Project.webp" alt="">
+                        <a href="#" class="" data-fancybox="" data-caption=""><!--<span class="icon flaticon-play-sign">--></span></a>
+                    </figure>
+                    <figure class="image-2 wow fadeIn" data-wow-delay="600ms"><img src="images/resource/New Project (1).webp" alt=""></figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End About Us -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Gallery Section -->                       
+<section class="projects-section">
+   
+    <a name="fountain"></a>
+    <a name="mural"></a>
+    <a name="swim"></a>
+    <a name="terrace-garden"></a>
+    <a name="jacuzzi"></a>
+    <a name="wooden-desk"></a>
+    
+
+    <div class="auto-container">
+        <!--MixitUp Galery-->
+        <div class="sortable-masonry">
+            <div class="heading-box clearfix">
+                <div class="row clearfix">
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+                        <div class="sec-title"> 
+                            <h2>Our<span>Gallery</span></h2>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+                        <!--Filter-->
+                        <div class="filters clearfix">
+                            <ul class="filter-tabs filter-btns clearfix">
+                                <li class="filter active" data-role="button" data-filter=".all">All Projects</li>
+                                <li class="filter" data-role="button" data-filter=".terrace-garden"> Terrace Garden<a name="terrace-garden"></a></li>
+                                <li class="filter" data-role="button" data-filter=".wooden-desk">Wooden Works<a name="wooden-desk"></a></li>
+                                <li class="filter" data-role="button" data-filter=".fountain">Fountain<a name="fountain"></a></li>
+                                <li class="filter" data-role="button" data-filter=".mural">Murals<a name="mural"></a></li>
+                                <li class="filter" data-role="button" data-filter=".snow-removal">Pergola<a name="snow-removal"></a></li>
+                                <li class="filter" data-role="button" data-filter=".swim">Swimming Pool<a name="swim"></a></li>
+                                <li class="filter" data-role="button" data-filter=".Jacuzzi">Jacuzzi<a name="Jacuzzi"></a></li>
+                                <li class="filter" data-role="button" data-filter=".garden-care">Hardscape<a name="garden-care"></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+            <div id="gallery-section">	
+                <div id="thumbnail-gallery-container">           
+                    <!---- Top Row --->
+                    <a class="thumbnail all wooden-desk" href="#lightbox-image-1"><img class="thumbnail-image" src="images/gallery/wd2 (1).webp" alt="Colourful abstract collage art"/></a>
+                    <a class="thumbnail all terrace-garden" href="#lightbox-image-2"><img class="thumbnail-image" src="images/gallery/tg2.webp"/></a>   
+                    <a class="thumbnail all fountain" href="#lightbox-image-3"><img class="thumbnail-image" src="images/gallery/New Project (4).webp" alt="Assorted succulent plants in a glass jar."/></a>
+                    <a class="thumbnail all swim" href="#lightbox-image-4"><img class="thumbnail-image" src="images/gallery/New Project (3).webp" alt="Assorted succulent plants in a glass jar."/></a>
+
+
+                    <!--- Bottom Row --->
+                    <a class="thumbnail all snow-removal garden-care" href="#lightbox-image-5"><img class="thumbnail-image" src="images/gallery/f3 (1).webp" alt="Two table top glass jars of succulents."/></a>
+                    <a class="thumbnail all garden-care planting lawn-care fountain" href="#lightbox-image-6"><img class="thumbnail-image" src="images/gallery/New Project (2).webp" alt="Table top glass jar of plants."/></a>
+                    <a class="thumbnail all mural" href="#lightbox-image-7"><img class="thumbnail-image" src="images/gallery/j7.webp" alt="Small pots of cactii."/></a>
+                    <a class="thumbnail  all Jacuzzi" href="#lightbox-image-8"><img class="thumbnail-image" src="images/gallery/gym (1).webp" alt="Assorted succulent plants in a glass jar."/></a>
+
+            
+                </div><!-- thumbnail-gallery-container -->
+            </div><!--- gallery-section --->
+            
+            
+            <!--- Lightbox overlay. Below content is hidden until :target activated --->
+            
+                 <div class="lightbox-overlay" id="lightbox-image-1">
+                    <div class="lightbox-content">
+                        <a class="close" href="#gallery-section"></a>
+                        <img class="lightbox-image" src="images/gallery/wd2.webp" alt="Terrarium on table." />
+                        <p class="lightbox-navigation"><a class="next" href="#lightbox-image-2">Next</a></p>
+                    </div><!-- lightbox-content -->
+                </div><!--- lightbox-overlay --->
+                    
+            
+                <div class="lightbox-overlay" id="lightbox-image-2">
+                    <div class="lightbox-content">
+                        <a class="close" href="#gallery-section"></a>
+                        <img class="lightbox-image" src="images/gallery/tg2.webp" alt="Potted Succulent on Table." />
+                        <p class="lightbox-navigation"><a class="back" href="#lightbox-image-1">Back</a><a class="next" href="#lightbox-image-3">Next</a></p>
+                    </div><!-- lightbox-content -->
+                </div><!--- lightbox-overlay --->
+            
+
+                <div class="lightbox-overlay" id="lightbox-image-3">
+                    <div class="lightbox-content">
+                        <a class="close" href="#gallery-section"></a>
+                        <img class="lightbox-image" src="images/main-slider/b4.webp" alt="Assorted succulents in a jar." />
+                  <p class="lightbox-navigation"><a class="back" href="#lightbox-image-2">Back</a><a class="next" href="#lightbox-image-4">Next</a></p>
+                    </div><!-- lightbox-content -->
+                </div><!--- lightbox-overlay --->
+            
+
+                <div class="lightbox-overlay" id="lightbox-image-4">
+                    <div class="lightbox-content">
+                        <a class="close" href="#gallery-section"></a>
+                        <img class="lightbox-image" src="images/main-slider/b3.webp" alt="Two table top jars of assorted succulents." />
+                        <p class="lightbox-navigation"><a class="back" href="#lightbox-image-3">Back</a><a class="next" href="#lightbox-image-5">Next</a></p>
+                    </div><!-- lightbox-content -->
+                </div><!--- lightbox-overlay --->
+            
+
+                <div class="lightbox-overlay" id="lightbox-image-5">
+                    <div class="lightbox-content">
+                        <a class="close" href="#gallery-section"></a>
+                        <img class="lightbox-image" src="images/gallery/f3 (1).webp" alt="Assorted plants in a jar." />
+                        <p class="lightbox-navigation"><a class="back" href="#lightbox-image-4">Back</a><a class="next" href="#lightbox-image-6">Next</a></p>
+                    </div><!-- lightbox-content -->
+                </div><!--- lightbox-overlay --->
+
+                <div class="lightbox-overlay" id="lightbox-image-6">
+                    <div class="lightbox-content">
+                        <a class="close" href="#gallery-section"></a>
+                        <img class="lightbox-image" src="images/gallery/m4.webp" alt="Assorted plants in a jar." />
+                        <p class="lightbox-navigation"><a class="back" href="#lightbox-image-5">Back</a><a class="next" href="#lightbox-image-7">Next</a></p>
+                    </div><!-- lightbox-content -->
+                </div><!--- lightbox-overlay --->
+
+                <div class="lightbox-overlay" id="lightbox-image-7">
+                    <div class="lightbox-content">
+                        <a class="close" href="#gallery-section"></a>
+                        <img class="lightbox-image" src="images/gallery/j7.webp" alt="Assorted plants in a jar." />
+                        <p class="lightbox-navigation"><a class="back" href="#lightbox-image-6">Back</a><a class="next" href="#lightbox-image-8">Next</a></p>
+                    </div><!-- lightbox-content -->
+                </div><!--- lightbox-overlay --->
+            
+
+                <div class="lightbox-overlay" id="lightbox-image-8">
+                    <div class="lightbox-content">
+                        <a class="close" href="#gallery-section"></a>
+                        <img class="lightbox-image" src="images/gallery/gym.webp" alt="Small pots of cactii." />
+                        <p class="lightbox-navigation"><a class="next" href="#lightbox-image-7">Back</a></p>
+                    </div><!-- lightbox-content -->
+                </div><!--- lightbox-overlay --->
+
+
+
+
+
+
+
+
+
+            <!--<div class="items-container row clearfix">-->
+                <!-- Project Block -->
+                <!--<div class="project-block masonry-item all wooden-desk col-xl-3 col-lg-3 col-md-6 col-sm-12  ">
+                    <div class="image-box ">
+                        <figure class="image "><img src="images/gallery/New Project (6).webp" alt=""></figure>
+                        <div class="overlay-box">
+                            <div class="content-box">-->
+                                <!--<h4>Snow Removal</h4>-->
+                                <!--<a href="project-single.html" class="link">View Details <i class="flaticon-add"></i></a>-->
+                            <!--</div>
+                        </div>
+                    </div>
+                </div>-->
+
+                <!-- Project Block -->
+                <!--<div class="project-block masonry-item all terrace-garden col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                    <div class="image-box">
+                        <figure class="image"><img src="images/gallery/New Project (5).webp" alt=""></figure>
+                         <div class="overlay-box">
+                            <div class="content-box">-->
+                                <!--<h4>Snow Removal</h4>
+                                <a href="project-single.html" class="link">View Details <i class="flaticon-add"></i></a>-->
+                            <!--</div>
+                        </div>
+                    </div>
+                </div>-->
+
+                <!-- Project Block -->
+                <!--<div class="project-block masonry-item all fountain col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                    <div class="image-box">
+                        <figure class="image"><img src="images/gallery/f3 (1).webp" alt=""></figure>
+                        <div class="overlay-box">
+                            <div class="content-box">-->
+                                <!--<h4>Snow Removal</h4>
+                                <a href="project-single.html" class="link">View Details <i class="flaticon-add"></i></a>-->
+                            <!--</div>
+                        </div>
+                    </div>
+                </div>-->
+
+                <!-- Project Block -->
+                <!--<div class="project-block masonry-item all swim col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                    <div class="image-box">
+                        <figure class="image"><img src="images/gallery/New Project (4).webp" alt=""></figure>
+                        <div class="overlay-box">
+                            <div class="content-box">-->
+                                <!--<h4>Snow Removal</h4>-->
+                                <!--<a href="project-single.html" class="link">View Details <i class="flaticon-add"></i></a>-->
+                            <!--</div>
+                        </div>
+                    </div>
+                </div>-->
+
+                <!-- Project Block -->
+                <!--<div class="project-block masonry-item all snow-removal garden-care col-xl-3 col-lg-3 col-md-12 col-sm-12">
+                    <div class="image-box">
+                        <figure class="image"><img src="images/gallery/New Project (3).webp" alt=""></figure>
+                        <div class="overlay-box">
+                            <div class="content-box">-->
+                               <!--<h4>Snow Removal</h4>
+                                <a href="project-single.html" class="link">View Details <i class="flaticon-add"></i></a>--> 
+                            <!--</div>
+                        </div>
+                    </div>
+                </div>-->
+
+                <!-- Project Block -->
+                <!--<div class="project-block masonry-item all garden-care planting lawn-care fountain col-xl-6 col-lg-6 col-md-12 col-sm-12">
+                    <div class="image-box">
+                        <figure class="image"><img src="images/gallery/New Project.webp" alt=""></figure>
+                        <div class="overlay-box">
+                            <div class="content-box">-->
+                               <!--<h4>Snow Removal</h4>
+                                <a href="project-single.html" class="link">View Details <i class="flaticon-add"></i></a>-->
+                            <!--</div>
+                        </div>
+                    </div>
+                </div>-->
+
+                <!-- Project Block -->
+                <!--<div class="project-block masonry-item all mural col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                    <div class="image-box">
+                        <figure class="image"><img src="images/gallery/New Project (2).webp" alt=""></figure>
+                        <div class="overlay-box">
+                            <div class="content-box">-->
+                               <!--<h4>Snow Removal</h4>
+                                <a href="project-single.html" class="link">View Details <i class="flaticon-add"></i></a>-->
+                            <!--</div>
+                        </div>
+                    </div>
+                </div>-->
+
+                <!-- Project Block -->
+                <!--<div class="project-block masonry-item all Jacuzzi col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                    <div class="image-box">
+                        <figure class="image"><img src="images/gallery/New Project (1).webp" alt=""></figure>
+                        <div class="overlay-box">
+                            <div class="content-box">-->
+                                <!--<h4>Snow Removal</h4>
+                                <a href="project-single.html" class="link">View Details <i class="flaticon-add"></i></a>-->
+                            <!--</div>
+                        </div>
+                    </div>
+                </div>
+            </div>-->
+            
+
+            <!--<div class="link-box">
+                <a href="projects.html" class="theme-btn btn-style-one">Load More</a>
+            </div>-->
+       </div>
+    </div>
+</section>
+<!-- End Projects Section -->
+
+
+
+
+
+
+
+    <!-- Map Section -->
+    <section class="map-section" style="background-image: url(images/background/3.jpg);">
+        <div class="auto-container clearfix">
+            <div class="info-column clearfix">
+                <div class="inner-column">
+                    <div class="sec-title light"><h2>Contact Details</h2></div>
+                    <div class="content">
+                        <h5>Visit us on</h5>
+                        <div class="text">No 39 Dr.Vishnuvardhan road, Gowdanpalya,<br> above canfinhomes Bangalore 560061 </div>
+                        <div class="link-box"><a href="tel:+91-9844232351">Contact Us : +91-9844232351, +91-9902626179</a></div>
+                        
+                    </div>
+                </div>
+            </div>
+
+            <!-- Map Column -->
+            <div class="map-column">
+                <div class="map-outer">
+                    <!--Map Canvas-->
+
+                    <div style="width: 100%"><iframe width="100%" height="425" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=400&amp;hl=en&amp;q=No%2039%20Dr.Vishnuvardhan%20road,%20Gowdanpalya,%20above%20canfinhomes%20Bangalore%20560061+(Terrace%20360)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/population/">Population calculator map</a></iframe></div>
+                    
+
+
+
+                    <!--<div class="map-canvas"
+                    
+                        data-zoom="12"
+                        data-lat="12°54'45.4"
+                        data-lng="77°33'31.5"
+                        data-type="roadmap"
+                        data-hue="#ffc400"
+                        data-title="Location"
+                        data-icon-path="images/icons/map-marker.png"
+            
+                        data-content="No 39 Dr.Vishnuvardhan road, Gowdanpalya, above canfinhomes Bagalore 560061"</br><a href='https://maps.app.goo.gl/JV2dwczKaHNfD2Xi8'>Terrace 360</a>">
+                    </div>-->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End Map Section -->
+
+    <!--Main Footer-->
+    <footer class="main-footer">
+        <!--End Footer Top -->
+        <div class="auto-container">
+            <!-- Footer Top -->
+            <div class="footer-top clearfix">
+                <div class="top-left">
+                    <a href="#popup-box" class="theme-btn"><i class="flaticon-budget"></i>Get A Free Design</a>
+                </div>
+                
+                <div class="top-right clearfix">
+                    <div class="" ><span></span></div>
+                    <ul class="social-icon-two">
+                        <li><a href="Privacy Policy.html"><span class="">Privacy Policy</span></a></li>&nbsp &nbsp
+                        <li><a href="https://www.facebook.com/"><span class="fa fa-facebook"></span></a></li>
+                        <li><a href="https://twitter.com/i/flow/login"><span class="fa fa-twitter"></span></a></li>
+                        <li><a href="https://in.linkedin.com/"><span class="fa fa-linkedin"></span></a></li>
+                        
+                    </ul>
+                    <div class="scroll-to-top scroll-to-target" data-target="html"><span class="flaticon-up-chevron"></span></div>
+                </div>
+            </div>
+
+
+
+            
+
+
+           
+
+            <!--Widgets Section-->
+            <!--<div class="widgets-section">
+                <div class="row clearfix">-->
+                    <!--Footer Column-->
+                    <!--<div class="footer-column col-lg-4 col-md-12 col-sm-12">
+                        <div class="footer-widget logo-widget">
+                            <div class="logo">
+                                <a href="index.html"><img src="images/logo terrace 360 (main).webp " alt="" /></a>
+                            </div>
+                            <div class="text">The Gardenarea provide the design and installa- tion of many landscape construction projects including walkways, steps, retaining walls, patios, veneer stone, planting, trans-planting, drainage systems, lawn renovation and installation, paver driveways, cobblestone.</div>
+                            <a href="#" class="read-more">Read More</a>
+                            <div class="copyright-text">Copyrights &copy; 2023 <a href="index.html"> Terrace 360.</a></div>
+                        </div>
+                    </div>-->
+
+                    <!--Footer Column-->
+                    <!--<div class="footer-column col-lg-4 col-md-6 col-sm-12">
+                        <div class="footer-widget lists-widget">
+                            <div class="footer-title">
+                                <h2>Usefull Links</h2>
+                            </div>
+                            <div class="widget-content">
+                                <div class="row clearfix">
+                                    <div class="column col-lg-6 col-md-6 col-sm-12">
+                                        <ul class="footer-list">
+                                            <li><a href="#">About Us</a></li>
+                                            <li><a href="#">Meet Our Team</a></li>
+                                            <li><a href="#">Our Projects</a></li>
+                                            <li><a href="#">Get a Quote</a></li>
+                                            <li><a href="#">Testimonials</a></li>
+                                            <li><a href="#">Contact Us</a></li>
+                                        </ul>
+                                    </div>
+      
+                                    <div class="column col-lg-6 col-md-6 col-sm-12">
+                                        <ul class="footer-list">
+                                            <li><a href="#">Our Services</a></li>
+                                            <li><a href="#">Locations</a></li>
+                                            <li><a href="#">News</a></li>
+                                            <li><a href="#">Why Choose Us</a></li>
+                                            <li><a href="#">Sustainability</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
+                    
+                    <!--Footer Column-->
+                    <!--<div class="footer-column col-lg-4 col-md-6 col-sm-12">-->
+                        <!--<div class="footer-widget news-widget">
+                            <div class="footer-title">
+                                <h2>Tips & Tricks</h2>
+                            </div>
+                            <div class="widget-content">-->
+                                <!--News Widget Block-->
+                                <!--<div class="news-widget-block">
+                                    <div class="widget-inner">
+                                        <div class="post-date"><span class="fa fa-clock-o"></span> March 31, 2018</div>
+                                        <h3><a href="#">Special Message Regarding Mystery Shopper Programs.</a></h3>
+                                    </div>
+                                </div>-->
+                                
+                                <!--News Widget Block-->
+                                <!--<div class="news-widget-block">
+                                    <div class="widget-inner">
+                                        <div class="post-date"><span class="fa fa-clock-o"></span> March 06, 2018</div>
+                                        <h3><a href="#">More than 50 percent of the work we do today didnot exist.</a></h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="#" class="more-news">More News</a>
+                        </div>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="auto-container">
+            <!-- Footer bottom -->
+            <div class="footer-bottom">
+                <div class="row">
+                    <div class="col-12 copyright">
+                        <span style="font-size: 13px;">Copyright © 2023 Terrace 360</span>
+                        <span style="font-size: 13px;">Design By <a
+                            href="https://www.metromindz.com/" rel="dofollow">
+                            Metromindz</a></span>
+                    </div>
+                </div>
+            </div>
+            
+    </footer>
+    <!--End Main Footer-->
+</div>  
+<!--End pagewrapper-->
+
+<!--Scroll to top-->
+<script src="js/jquery.js"></script> 
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.fancybox.js"></script>
+<script src="js/owl.js"></script>
+<script src="js/wow.js"></script>
+<script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="js/isotope.js"></script>
+<script src="js/appear.js"></script>
+<script src="js/script.js"></script>
+<!--Google Map APi Key-->
+<script src="http://maps.google.com/maps/api/js?key=AIzaSyBKS14AnP3HCIVlUpPKtGp7CbYuMtcXE2o"></script>
+<script src="js/map-script.js"></script>
+<!--End Google Map APi-->
+</body>
+</html>
+
+
+
+
+
+<!--<div class="box">
+    <a href="#popup-box"> 
+        Click to Open Popup Box !
+    </a>
+</div>-->
+
+<div id="popup-box" class="modal">
+    <div class="contents">
+        <div class="contact-form">
+            <form method="post" action="index.html">
+                <div class="row clearfix">
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+                        <H3 class="textt" style="text-align: center; color: rgb(74, 74, 74);">Estimation Form</H3>
+                        <div class="form-group">
+                            <input type="text" name="username" placeholder="Name" required="">
+                        </div>
+                        
+                        <div class="form-group">
+                            <input type="email" name="email" placeholder="Email" required="">
+                        </div>
+
+                        <div class="form-group">
+                            <input type="text" name="phone" placeholder="Phone No" required="">
+                        </div>
+                        <div class="form-group">
+                            <textarea name="message" placeholder="Message"></textarea>
+                        </div>
+                        <div class="form__linput">
+                            <label class="form__label" for="country-select"></label>
+                            <select class="form__select" id="country-select" name="Budget">
+                              <option value="" class="">Budget For Terrace Makeover</option>
+                              <option value="australia">2 to 4 Lacks</option>
+                              <option value="canada">4 to 6 Lacks</option>
+                              <option value="usa">6 to 8 Lacks</option>
+                              <option value="usa">8 to 12 Lacks</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 form-group">
+                        <button type="submit" name="submit-form" class="theme-btn btn-style-one">Submit Now</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <a href="#"
+           class="box-close">
+            ×
+        </a>
+    </div>
+</div>  
